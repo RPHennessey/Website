@@ -1,2 +1,2 @@
-# Website
-Webpage for the ICO! 
+# TeamMateAI
+Webdev for TeamMateAI.
