@@ -1,2 +1,0 @@
-# TeamMateAI
-Webdev for TeamMateAI.
